@@ -9,15 +9,15 @@ SIAKAD adalah Sistem Informasi Akademik yang dirancang untuk mengelola data akad
 
 # Screenshots 
 
-![LoginPage](image-1.png)
+![LoginPage](screenshots/login.png)
 *Contoh tampilan Login.*
 
-![Homepage](image-2.png)
+![Homepage](screenshots/homepage.png)
 *Contoh tampilan beranda setelah login.*
 
-![kompetensi](image-3.png)  ![guru](image-4.png)    ![siswa](image-5.png)   ![matpel](image-6.png)  ![nilai](image-7.png)   ![laporan](image-8.png)
+![kompetensi](screenshots/kompetensi.png)  ![guru](screenshots/guru.png)    ![siswa](screenshots/siswa.png)   ![matpel](screenshots/matpel.png)  ![nilai](screenshots/nilai.png)   ![laporan](screenshots/laporan.png)
 
-![cetaklaporan](image-9.png)
+![cetaklaporan](screenshots/cetak.png)
 *Contoh hasil cetak laporan nilai siswa*
 
 
