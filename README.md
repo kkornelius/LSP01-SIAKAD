@@ -1,10 +1,25 @@
 # SIAKAD - Sistem Informasi Akademik
 
+![GitHub stars](https://img.shields.io/github/stars/kkornelius/LSP01-SIAKAD?style=social)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 SIAKAD adalah Sistem Informasi Akademik yang dirancang untuk mengelola data akademik sekolah atau institusi pendidikan. Aplikasi ini memudahkan pengelolaan data guru, siswa, mata pelajaran, nilai, dan kompetensi keahlian dengan antarmuka yang modern dan responsif.
+
+# Screenshots 
+
+![LoginPage](image-1.png)
+*Contoh tampilan Login.*
+
+![Homepage](image-2.png)
+*Contoh tampilan beranda setelah login.*
+
+![kompetensi](image-3.png)  ![guru](image-4.png)    ![siswa](image-5.png)   ![matpel](image-6.png)  ![nilai](image-7.png)   ![laporan](image-8.png)
+
+![cetaklaporan](image-9.png)
+*Contoh hasil cetak laporan nilai siswa*
+
 
 ## 🎯 Fitur Utama
 
@@ -26,7 +41,6 @@ SIAKAD adalah Sistem Informasi Akademik yang dirancang untuk mengelola data akad
 - **Framework CSS**: Bootstrap 5
 - **Icon Library**: Font Awesome 6
 - **Server**: Apache (XAMPP)
-
 
 ## 📖 Panduan Penggunaan
 
